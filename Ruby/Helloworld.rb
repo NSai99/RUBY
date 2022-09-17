@@ -18,3 +18,10 @@ b = 20
 puts "this is #$a and #$b"
 a , b  = b, a
 print a, b
+
+# constants declare name in all caps
+NAME = "SAI"
+puts NAME
+NAME = "SAI1"
+puts NAME
+
